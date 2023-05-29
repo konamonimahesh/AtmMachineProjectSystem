@@ -60,14 +60,14 @@ Exit: Return the user to the home page or initial screen by exiting the current 
 Example for ATM program in Java to withdraw amount, deposit amount and check the balance.
     
     An output of the above code for the withdrawal operation is:
-     <img width=500px height=200px src="./images/img1.jgp" alt="Project logo"></a>
+     <img width=500px height=200px src="./images/img1.jgp" alt="Project img 1"></a>
      
      
      An output of the above code for the deposit operation is:
-        <img width=500px height=200px src="./images/img2.jgp" alt="Project logo"></a>
+        <img width=500px height=200px src="./images/img2.jgp" alt="Project img 2"></a>
         
      Finally, an output of the above code for the deposit operation is:
-        <img width=500px height=200px src="./images/img3.jgp" alt="Project logo"></a>
+        <img width=500px height=200px src="./images/img3.jgp" alt="Project img3"></a>
         
         
         
