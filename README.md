@@ -10,17 +10,17 @@
 <p align="center"> Few lines describing your project.
 
 
-Table of Contents
-About
-Getting Started
-Deployment
-Usage
-Flow Chart
-TODO
-Contributing
-Authors
-Acknowledgments
-🧐 About
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Flow Chart](#flowchart)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+    
 Fully Functional E-billing Online Payment website. The Technology that we used in the project is Java, Mysql, JFrames container , JCalender,Graphical User Interface(GUI). There is an one important module in the project is user interface billing system to pay the bill. The data is accessed using database and rendered into the local pdf file format. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
 
 🏁 Getting Started
