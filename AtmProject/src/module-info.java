@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author konam
- *
- */
-module AtmProject {
-}
