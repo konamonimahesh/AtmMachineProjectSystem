@@ -1,11 +1,11 @@
-# AtmMachineProjectSystem
+# ATM Machine Project System
 
 
 
 # project-documentation
 
 
-<h3 align="center">Atm Machine Project</h3>
+<h3 align="center">ATM Machine Project</h3>
 
 <p align="center"> Few lines describing your project.
 
@@ -60,7 +60,25 @@ Exit: Return the user to the home page or initial screen by exiting the current 
 Example for ATM program in Java to withdraw amount, deposit amount and check the balance.
     
     An output of the above code for the withdrawal operation is:
-     <img width=500px height=200px src="./" alt="Project logo"></a>
+     <img width=500px height=200px src="./images/img1.jgp" alt="Project logo"></a>
+     
+     
+     An output of the above code for the deposit operation is:
+        <img width=500px height=200px src="./images/img2.jgp" alt="Project logo"></a>
+        
+     Finally, an output of the above code for the deposit operation is:
+        <img width=500px height=200px src="./images/img3.jgp" alt="Project logo"></a>
+        
+        
+        
+        As in the above program, the ATM class is created which contains withdraw(), deposit() and printbalance() functions. The withdraw() function is used to perform the withdraw operation; this function accepts the balance and the withdrawn amount. Inside the withdraw() function, first check whether the balance is greater than the withdraw amount or not; when it is true, then update the balance by subtracting the withdraw amount from the balance. Next, the function deposit() is used to performs the deposit operation; this function accepts the balance and the deposit amount.
+
+Inside the deposit() function, it updates the balance by adding the deposit amount to the balance. Next, the printbalance() function is used to print the balance; it accepts the balance. Then, in the main function, a balance variable of an integer is created. Next, printing the selecting pitons for withdrawing, deposit, balance, and exit operations, depending on the specific option selection the case gets to execute, as we can see in the above output.
+
+###conclusion
+
+An automated teller machine (ATM) is an electronic telecommunications system that allows customers of banking firms to conduct financial transactions. We can create an ATM program in Java to display ATM transactions, and the user can withdraw money, deposit money, check the balance, and exit from the ATM.
+     
 
 
 🚀 Deployment
