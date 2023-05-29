@@ -47,6 +47,20 @@ Click on install buuton to install.
 After successful installation go to the command prompt.
 type java --version.
 It ensures that Java is successfully installed in your system.
+ ### Working of ATM Program in Java
+    To withdraw your funds, deposit your funds and check your account balance before exiting, the following operations are needed to perform in the ATM program:
+
+Withdraw: For withdrawing the funds, gets the withdrawal amount from the user, deduct it from the total balance, and display the message.
+Deposit: For depositing the funds, gets the deposit amount from the user to add, add it to the total balance, and display the message.
+Check the balance: For checking the balance, display the user’s total balance.
+Exit: Return the user to the home page or initial screen by exiting the current Transaction mode.
+    
+    Given below is the example of the ATM Program in Java:
+
+Example for ATM program in Java to withdraw amount, deposit amount and check the balance.
+    
+    An output of the above code for the withdrawal operation is:
+     <img width=500px height=200px src="./" alt="Project logo"></a>
 
 
 🚀 Deployment
